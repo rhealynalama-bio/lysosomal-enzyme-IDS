@@ -1,6 +1,10 @@
 # Lysosomal Enzyme Analysis: IDS (Iduronate 2-Sulfatase)
 
-**Gene:** IDS | **Protein:** iduronate 2-sulfatase, isoform a preproprotein | **Accession:** [NP_000193.1](https://www.ncbi.nlm.nih.gov/protein/NP_000193.1) | **Organism:** *Homo sapiens*
+**Gene:** IDS 
+
+**Protein:** iduronate 2-sulfatase, isoform a preproprotein 
+
+**Accession:** [NP_000193.1](https://www.ncbi.nlm.nih.gov/protein/NP_000193.1) | **Organism:** *Homo sapiens*
 
 **Function:** IDS is a lysosomal sulfatase that removes the 2-O-sulfate group from iduronic acid in heparan sulfate and dermatan sulfate, so other enzymes can finish degrading them.
 
