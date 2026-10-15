@@ -9,8 +9,8 @@
 # STEP 1. EDIT THESE TWO LINES for YOUR human lysosomal enzyme.
 # Example (GAA): NP_000143.2 is a human RefSeq protein accession.
 
-gene <- "GAA"
-accession <- "NP_000143.2"
+gene <- "IDS"
+accession <- "NP_000193.1"
 
 # STEP 2. CHECK PACKAGES
 for (pkg in c("rentrez", "ggplot2")) {
